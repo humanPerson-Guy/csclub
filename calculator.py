@@ -6,7 +6,7 @@ while keepGo == True:
     nums={}
     signs={}
     key=1
-    dino=False
+    dino=True
     while dino==True:
         newnum=int(input("input new number"))
         nums[key] =newnum
@@ -18,5 +18,7 @@ while keepGo == True:
             dino=False
         elif dino == "t":
             dino=True
-    for range key    
+    for range in (0,key):
+        print("key")
+    
       
