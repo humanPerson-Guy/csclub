@@ -6,7 +6,7 @@ a=[]
 
 h=int(input('how meny ais do you whant to do'))
 for t in range(1,h):
-    g=ran.randint(1,52)
+    g=ran.randint(1,89)
     if g ==1:
         a.append["`"]
     if g ==2:
@@ -46,11 +46,11 @@ for t in range(1,h):
     if g ==19:
         a.append["9"]
     if g ==20:
-        a.append["("]
+        a.append["𓅓"]
     if g ==21:
         a.append["0"]
     if g ==22:
-        a.append[")"]
+        a.append["𓅓"]
     if g ==23:
         a.append["q"]
     if g ==24:
@@ -68,7 +68,7 @@ for t in range(1,h):
     if g ==30:
         a.append["R"]
     if g ==31:
-        a.append["T"]
+        a.append["𓅓"]
     if g ==32:
         a.append["t"]
     if g ==33:
@@ -92,13 +92,13 @@ for t in range(1,h):
     if g ==42:
         a.append["P"]
     if g ==43:
-        a.append["["]
+        a.append["𓅃"]
     if g ==44:
-        a.append["{"]
+        a.append["𓅓"]
     if g ==45:
-        a.append["]"]
+        a.append["𓅩"]
     if g ==46:
-        a.append["}"]
+        a.append["𓅨"]
     if g ==47:
         a.append["a"]
     if g ==48:
